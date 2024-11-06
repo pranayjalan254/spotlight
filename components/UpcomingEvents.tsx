@@ -13,7 +13,7 @@ const events = [
     location: "Crypto Arena, Los Angeles",
     image:
       "https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?w=800&auto=format&fit=crop&q=60",
-    price: "0.5 SOL",
+    price: "$50",
   },
   {
     id: 2,
@@ -28,10 +28,10 @@ const events = [
     id: 3,
     title: "NFT Art Gallery",
     date: "May 1, 2024",
-    location: "Digital Museum, New York",
+    location: "Digital Museum, India",
     image:
       "https://images.unsplash.com/photo-1547826039-bfc35e0f1ea8?w=800&auto=format&fit=crop&q=60",
-    price: "0.2 SOL",
+    price: "₹3999",
   },
 ];
 
